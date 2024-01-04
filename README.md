@@ -1,2 +1,3 @@
-# CorrelationAnalysis_Project
-Project work on correlation analysis based on movie dataset on Kaggle
+# Project Title: Correlation Analysis on Kaggle Dataset
+
+This GitHub repository contains a correlation analysis project conducted in Python using Jupyter Notebook. The project focuses on exploring and understanding relationships within a Kaggle dataset. The initial steps involve data cleaning, addressing null values, and sorting the dataset to ensure a reliable foundation for analysis. Utilizing the Pearson correlation coefficient, the project examines how various attributes within the dataset relate to a specific target attribute. The correlation analysis provides valuable insights into the strength and direction of linear relationships, shedding light on potential patterns and dependencies in the data. This repository serves as a comprehensive resource for those interested in understanding the correlation structures within the dataset and can be a useful reference for similar projects or data exploration endeavors.
